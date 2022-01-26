@@ -1,2 +1,2 @@
-# Lab_Cycle-2
+# Experiment-2
 Strings and Arrays
